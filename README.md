@@ -59,14 +59,6 @@ Libraries used:
 Temperature: 28.5 °C  |  Humidity: 72 %
 ```
 
----
-
-## Project Preview
-
-(Add your actual project photo here)
-
----
-
 ## Key Learnings
 
 * Sensor data acquisition using ESP32
