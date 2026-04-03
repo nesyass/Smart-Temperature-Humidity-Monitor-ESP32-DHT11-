@@ -1,6 +1,6 @@
-# 🌡️ Smart Temperature & Humidity Monitor (ESP32 + DHT11)
+# Smart Temperature & Humidity Monitor (ESP32 + DHT11)
 
-## 📌 Overview
+## Overview
 
 This project is a simple IoT-based monitoring system that measures environmental temperature and humidity using a DHT11 sensor connected to an ESP32. The system reads real-time data and displays it via the serial monitor.
 
@@ -8,7 +8,7 @@ This project serves as a foundational step toward building more advanced IoT dat
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Collect real-time environmental data (temperature & humidity)
 * Understand basic sensor integration with ESP32
@@ -17,7 +17,7 @@ This project serves as a foundational step toward building more advanced IoT dat
 
 ---
 
-## 🧰 Components
+## Components
 
 * ESP32 Development Board
 * DHT11 Temperature & Humidity Sensor
@@ -26,7 +26,7 @@ This project serves as a foundational step toward building more advanced IoT dat
 
 ---
 
-## 🔌 Wiring Configuration
+## Wiring Configuration
 
 | DHT11 Pin | ESP32 Connection |
 | --------- | ---------------- |
@@ -34,11 +34,11 @@ This project serves as a foundational step toward building more advanced IoT dat
 | GND       | GND              |
 | DATA      | GPIO 4           |
 
-📷 See wiring diagram in `/wiring/wiring.png`
+See wiring diagram in `/wiring/wiring.png`
 
 ---
 
-## 💻 Code Implementation
+## Code Implementation
 
 Main code is available in:
 
@@ -53,7 +53,7 @@ Libraries used:
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 ```
 Temperature: 28.5 °C  |  Humidity: 72 %
@@ -61,13 +61,13 @@ Temperature: 28.5 °C  |  Humidity: 72 %
 
 ---
 
-## 📷 Project Preview
+## Project Preview
 
 (Add your actual project photo here)
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 * Sensor data acquisition using ESP32
 * Handling real-time data from hardware
@@ -76,7 +76,7 @@ Temperature: 28.5 °C  |  Humidity: 72 %
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Send data to MQTT broker for real-time communication
 * Store data in database or cloud platform
@@ -85,7 +85,7 @@ Temperature: 28.5 °C  |  Humidity: 72 %
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 smart-temp-monitor/
@@ -100,7 +100,7 @@ smart-temp-monitor/
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. Connect the DHT11 sensor to ESP32 according to the wiring diagram
 2. Install required libraries in Arduino IDE
@@ -110,12 +110,12 @@ smart-temp-monitor/
 
 ---
 
-## 📌 Notes
+## Notes
 
 This project is part of a larger portfolio focused on IoT systems, data engineering, and machine learning integration.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Sassa
