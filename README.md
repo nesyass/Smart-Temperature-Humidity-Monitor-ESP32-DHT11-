@@ -112,7 +112,7 @@ smart-temp-monitor/
 
 ## Notes
 
-This project is part of a larger portfolio focused on IoT systems, data engineering, and machine learning integration.
+The simulation uses a DHT22 sensor in Wokwi due to component availability, while the actual hardware implementation uses a DHT11 sensor. Both sensors share similar functionality and wiring configuration.
 
 ---
 
